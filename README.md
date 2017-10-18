@@ -1,2 +1,2 @@
 # lib
-BibliothÃ¨que de Relire
+Bibliothèque javascript de Relire
